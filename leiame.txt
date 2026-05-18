@@ -1,0 +1,26 @@
+/aghuseplay-netflix
+│
+│ └── index.html
+│
+│
+├── /vídeos
+│   ├── registrodeaih.mp4
+│   ├── ...
+│
+│
+├── /trumbnail
+│   ├── aviso_de_solicitacao_a_executar.png
+│   ├── ...
+│
+│
+├── /pdfs
+│   ├── AMBULATORIO-GRADE-DE-AGENDAMENTO.pdf
+│   ├── AMBULATORIO-MARCAR-AMBULATORIO.pdf
+│   ├── ...
+│
+│
+├── /assests
+│   ├── aghuseplay.png
+│   ├── favicon.ico
+│
+│
